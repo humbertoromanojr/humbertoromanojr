@@ -25,4 +25,5 @@
 ### 🇺🇸   Blog   🇺🇸  
 
 <!-- DEVTO:START -->
+- [People Counter](https://dev.to/jrdev/people-counter-17l2)
 <!-- DEVTO:END -->
