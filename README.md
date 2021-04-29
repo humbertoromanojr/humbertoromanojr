@@ -30,7 +30,7 @@
 
 📊  This week I spent my time on
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=humbertoromanojr)](https://github.com/anuraghazra/github-readme-stats)
+[![humbertoromanojr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=humbertoromanojr)](https://github.com/humbertoromanojr/github-readme-stats)
 
 
 
