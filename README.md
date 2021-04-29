@@ -1,8 +1,8 @@
  hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20"> Hello, I'm 🎸 JR Dev 🎸 ✨  Welcome ✨ 
 
- ⚡ This is the place where I opensource stuff and i get lost and find myself reason my life 💙;
- ⚡ 💬 Ask me about anything related to Javascript/Node/React/React Native...;
- ⚡ 📓 Studying Flutter and Dart;  
+ ⚡ This is the place where I opensource stuff and i get lost and find myself reason my life 💙;<br />
+ ⚡ 💬 Ask me about anything related to Javascript/Node/React/React Native...;<br />
+ ⚡ 📓 Studying Flutter and Dart; <br /> 
 
 
 <h1 align="center">
