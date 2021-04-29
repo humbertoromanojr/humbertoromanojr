@@ -9,4 +9,9 @@
 ### 📕  sLatest blog wordpress
 
 <!-- WORDPRESS:START -->
+- [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
+- [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
+- [React: Components, State and Props](https://hjrdev.wordpress.com/2019/07/18/react-components-state-and-props/)
+- [React: Component x PureComponent](https://hjrdev.wordpress.com/2019/07/17/react-component-x-purecomponent/)
+- [Dicas de Ferramentas: Trello](https://hjrdev.wordpress.com/2019/07/16/dicas-de-ferramentas-trello/)
 <!-- WORDPRESS:END -->
