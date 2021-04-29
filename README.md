@@ -9,7 +9,9 @@
 <br />
 
 
-### 📕  sLatest blog wordpress
+## 📕  Latest my blogs
+
+### 🇧🇷  Blog  🇧🇷 
 
 <!-- WORDPRESS:START -->
 - [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
@@ -18,3 +20,8 @@
 - [React: Component x PureComponent](https://hjrdev.wordpress.com/2019/07/17/react-component-x-purecomponent/)
 - [Dicas de Ferramentas: Trello](https://hjrdev.wordpress.com/2019/07/16/dicas-de-ferramentas-trello/)
 <!-- WORDPRESS:END -->
+
+### 🇺🇸  Blog  🇺🇸  
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
