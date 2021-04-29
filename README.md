@@ -25,7 +25,7 @@
 ### 🇺🇸   Blog   🇺🇸  
 
 <!-- DEVTO:START -->
-- [People Counter](https://dev.to/jrdev/people-counter-17l2) 
+- [People Counter](https://dev.to/jrdev/people-counter-17l2)
 <!-- DEVTO:END -->
 
 📊  This week I spent my time on
