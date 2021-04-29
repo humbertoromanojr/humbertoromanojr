@@ -30,4 +30,3 @@
 
 📊 This week I spent my time on
 
-Wwakatime stats
