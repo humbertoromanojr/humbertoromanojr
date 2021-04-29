@@ -28,6 +28,10 @@
 - [People Counter](https://dev.to/jrdev/people-counter-17l2) 
 <!-- DEVTO:END -->
 
-📊 This week I spent my time on
+📊  This week I spent my time on
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=humbertoromanojr)](https://github.com/humbertoromanojr/github-readme-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&layout=compact)](https://github.com/humbertoromanojr/github-readme-stats)
