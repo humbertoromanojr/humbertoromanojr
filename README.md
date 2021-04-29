@@ -25,8 +25,9 @@
 ### 🇺🇸   Blog   🇺🇸  
 
 <!-- DEVTO:START -->
-- [People Counter](https://dev.to/jrdev/people-counter-17l2)
+- [People Counter](https://dev.to/jrdev/people-counter-17l2) 
 <!-- DEVTO:END -->
 
 📊 This week I spent my time on
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&layout=compact)](https://github.com/humbertoromanojr/github-readme-stats)
