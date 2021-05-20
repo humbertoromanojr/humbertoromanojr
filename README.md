@@ -29,9 +29,7 @@
 <!-- DEVTO:END -->
 
 📊  This week I spent my time on
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jrdev)](https://github.com/humbertoromanojr/github-readme-stats)
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&layout=compact)](https://github.com/humbertoromanojr/github-readme-stats)
