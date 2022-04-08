@@ -6,8 +6,10 @@
 
 
 <h1 align="center">
-  <img src="https://www.weblineindia.com/wp-content/uploads/2019/01/react-native-build-mobile-apps-with-increased-developer-productivity.gif" alt="react-native" border="0">
+  <img src="https://i.ibb.co/M1x5nmP/reactjs.png" alt="Imagem de https://www.sitepoint.com/organize-large-react-application/" border="0">
 </h1>
+
+Imagem de https://www.sitepoint.com/organize-large-react-application/
 
 
 ## 📕  Latest my blogs
