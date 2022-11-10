@@ -1,4 +1,4 @@
- hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20"> Hello, I'm 🎸 JR Dev 🎸 ✨  Welcome ✨ 
+ hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20"> Hello, I'm 🎸 Humberto Jr 🎸 ✨  Welcome ✨ 
 
  ⚡ This is the place where I opensource stuff and i get lost and find myself reason my life 💙;<br />
  ⚡ 💬 Ask me about anything related to Javascript/Node/React/React Native...;<br />
