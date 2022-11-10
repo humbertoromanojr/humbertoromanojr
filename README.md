@@ -4,18 +4,13 @@
  ⚡ 💬 Ask me about anything related to Javascript/Node/React/React Native...;<br />
  ⚡ 📓 Studying Flutter and Dart; <br /> 
 
-https://drive.google.com/file/d/1EXRVhLA61Xq6wpdFg7BWgHZxR7l9nFOD/view?usp=sharing
-
 <h1 align="center">
   <img src="https://drive.google.com/uc?export=view&id=1EXRVhLA61Xq6wpdFg7BWgHZxR7l9nFOD" alt="" width="100%" border="0" />
 </h1>
 
-Imagem de https://www.sitepoint.com/organize-large-react-application/
+## <img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="100%" border="0" />  Latest my blogs
 
-
-## 📕  Latest my blogs
-
-### 🇧🇷   Blog   🇧🇷 
+### 🇧🇷  Blog   🇧🇷 
 
 <!-- WORDPRESS:START -->
 - [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
