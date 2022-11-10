@@ -1,14 +1,14 @@
  hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20"> Hello, I'm 🎸 Humberto Jr 🎸 ✨  Welcome ✨ 
 
- ⚡ This is the place where I opensource stuff and i get lost and find myself reason my life 💙;<br />
- ⚡ 💬 Ask me about anything related to Javascript/Node/React/React Native...;<br />
- ⚡ 📓 Studying Flutter and Dart; <br /> 
+ <img src="https://drive.google.com/uc?export=view&id=15_9C_Vu3-luWsbZQUY3H0qaj9M2EqUTl" alt="" width="22" border="0" /> This is the place where I opensource stuff and i get lost and find myself reason my life 💙;<br />
+<img src="https://drive.google.com/uc?export=view&id=1iy1RVcSup0cB--MchEv6-d2GLbHAuAeb" alt="" width="22" border="0" /> Ask me about anything related to Javascript/Node/React/React Native...;<br />
+<img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" /> 📓 Don´t stop learning <br /> 
 
 <h1 align="center">
   <img src="https://drive.google.com/uc?export=view&id=1EXRVhLA61Xq6wpdFg7BWgHZxR7l9nFOD" alt="" width="100%" border="0" />
 </h1>
 
-## <img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" />  Latest my blogs
+<img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" />  Latest my blogs
 
 ### 🇧🇷  Blog   🇧🇷 
 
