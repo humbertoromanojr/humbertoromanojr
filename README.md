@@ -4,9 +4,10 @@
  ⚡ 💬 Ask me about anything related to Javascript/Node/React/React Native...;<br />
  ⚡ 📓 Studying Flutter and Dart; <br /> 
 
+https://drive.google.com/file/d/1EXRVhLA61Xq6wpdFg7BWgHZxR7l9nFOD/view?usp=sharing
 
 <h1 align="center">
-  <img src="https://i.ibb.co/M1x5nmP/reactjs.png" alt="Imagem de https://www.sitepoint.com/organize-large-react-application/" border="0">
+  <img src="https://drive.google.com/uc?export=view&id=1EXRVhLA61Xq6wpdFg7BWgHZxR7l9nFOD" alt="" width="100%" border="0" />
 </h1>
 
 Imagem de https://www.sitepoint.com/organize-large-react-application/
