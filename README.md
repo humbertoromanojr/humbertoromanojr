@@ -8,7 +8,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1EXRVhLA61Xq6wpdFg7BWgHZxR7l9nFOD" alt="" width="100%" border="0" />
 </h1>
 
-## <img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="100%" border="0" />  Latest my blogs
+## <img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" />  Latest my blogs
 
 ### 🇧🇷  Blog   🇧🇷 
 
