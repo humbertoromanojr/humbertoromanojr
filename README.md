@@ -25,8 +25,7 @@ hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" wi
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
-
-- [People Counter](https://dev.to/jrdev/people-counter-17l2)
+- [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
 
 📊 This week I spent my time on
