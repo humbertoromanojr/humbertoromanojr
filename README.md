@@ -10,11 +10,17 @@ hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" wi
   <img src="https://drive.google.com/uc?export=view&id=1rC8HnJvdlbzdy6DjDmELt8p4NNeJBmy2" alt="" width="100%" border="0" />
 </h1>
 
+## Other Repositories
+
+- [Gitlab](https://gitlab.com/humbertoromanojr)
+- [Bitbucket](https://bitbucket.org/humbertoromanojr/workspace/overview)
+
 <img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" /> Latest my blogs
 
 ### 🇧🇷 Blog 🇧🇷
 
 <!-- WORDPRESS:START -->
+
 - [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
 - [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
 - [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
@@ -25,6 +31,7 @@ hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" wi
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
+
 - [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
 
