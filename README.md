@@ -15,7 +15,6 @@ hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" wi
 ### 🇧🇷 Blog 🇧🇷
 
 <!-- WORDPRESS:START -->
-
 - [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
 - [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
 - [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
