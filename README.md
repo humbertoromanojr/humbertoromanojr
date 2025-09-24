@@ -1,14 +1,16 @@
 # 👩‍💻 Humberto Junior 👩‍💻
 
-✨ Welcome ✨
+✨ Welcome ✨ ✨ Welcome ✨ ✨ Welcome ✨
 
+hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="40"> my friend
+
+<br />
 🎸🎸 **`HellfrostH`** 🎸🎸
 <br />
 My name is Humberto Junior, but everyone calls me Junior. Since I was young, I have been passionate about writing stories, developing games, rock, and heavy metal, but currently I am focused on composing songs for my band [MordroM](https://mordrom.bandcamp.com/). My stage name is HellfrostH, and I play guitar, which is my favorite hobby. We need to enjoy ourselves in some way to improve our mental health.
 <br /><br />
 🤘🤘🤘🤘🤘 Heavy Metal, Coffee and Code 🤘🤘🤘🤘🤘
 <br /><br />
-hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20">
 
 📓 Don´t stop learning <br /><br />
 
@@ -163,27 +165,27 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=humbertoromanojr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    style="padding-top: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-left: 10px;" 
+    style="padding-left: 10px;padding-top: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=pie&custom_title=Tecnologias&langs_count=9" 
 />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-left: 10px;" 
+    style="padding-left: 10px;padding-top: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
@@ -201,6 +203,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇧🇷 Blog 🇧🇷
 
 <!-- WORDPRESS:START -->
+
 - [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
 - [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
 - [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
@@ -211,5 +214,6 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
+
 - [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
