@@ -152,45 +152,42 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 
 <br/><br/>
 
-### 📈 Statistics 📊
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=humbertoromanojr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 ## Some of my specialties
 
 <h1 align="center">
   <img src="https://drive.google.com/uc?export=view&id=1RW8Pi_G6BVXKo70Gu5nJhoJFtFMdvTBK" alt="" width="100%" border="0" />
 </h1>
 
+### 📈 Statistics 📊
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=humbertoromanojr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<br/>  
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ## Other Repositories
 
 - [Gitlab](https://gitlab.com/humbertoromanojr)
 - [Bitbucket](https://bitbucket.org/humbertoromanojr/workspace/overview)
 
-##
-
-##
-
-<img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" /> Latest my blogs
+### <img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" /> Latest my blogs
 
 ### 🇧🇷 Blog 🇧🇷
 
 <!-- WORDPRESS:START -->
+
 - [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
 - [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
 - [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
@@ -201,5 +198,6 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
+
 - [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
