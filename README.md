@@ -215,3 +215,9 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 <!-- DEVTO:START -->
 - [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humbertoromanojr/humbertoromanojr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/humbertoromanojr/humbertoromanojr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/humbertoromanojr/humbertoromanojr/output/github-contribution-grid-snake.svg">
+</picture>
