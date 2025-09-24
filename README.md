@@ -1,3 +1,8 @@
+# 🎸🎸 Humberto Junior 🎸🎸
+
+<br />
+Heavy Metal, Coffee and Code 🤘🤘🤘🤘🤘
+<br />
 hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20"> Hello, I'm 🎸 Humberto Jr 🎸 ✨ Welcome ✨
 
 <img src="https://drive.google.com/uc?export=view&id=15_9C_Vu3-luWsbZQUY3H0qaj9M2EqUTl" alt="" width="22" border="0" /> This is the place where I opensource stuff and i get lost and find myself reason my life 💙;<br />
@@ -28,6 +33,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇧🇷 Blog 🇧🇷
 
 <!-- WORDPRESS:START -->
+
 - [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
 - [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
 - [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
@@ -38,6 +44,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
+
 - [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
 
