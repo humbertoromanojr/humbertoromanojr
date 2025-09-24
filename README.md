@@ -213,7 +213,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
-- [About Web3](https://dev.to/humbertoromanojr/about-web-30-pk5)
+- [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
 
 <picture align="center">
