@@ -197,6 +197,5 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
-
 - [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
