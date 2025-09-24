@@ -8,11 +8,9 @@ My name is Humberto Junior, but everyone calls me Junior. Since I was young, I h
 <br /><br />
 🤘🤘🤘🤘🤘 Heavy Metal, Coffee and Code 🤘🤘🤘🤘🤘
 <br /><br />
-hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20"> Hello, I'm 🎸 Humberto Jr 🎸
+hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="20">
 
-<img src="https://drive.google.com/uc?export=view&id=15_9C_Vu3-luWsbZQUY3H0qaj9M2EqUTl" alt="" width="22" border="0" /> This is the place where I opensource stuff and i get lost and find myself reason my life 💙;<br />
-<img src="https://drive.google.com/uc?export=view&id=1iy1RVcSup0cB--MchEv6-d2GLbHAuAeb" alt="" width="22" border="0" /> Ask me about anything related to Javascript/Node/React/React Native...;<br />
-<img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" /> 📓 Don´t stop learning <br /><br />
+📓 Don´t stop learning <br /><br />
 
 **`Blockchain Developer`**
 
@@ -51,7 +49,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 
 ---
 
-### ☠️ Languages and Technologies
+### 👩‍💻 Languages and Technologies
 
 <img 
     align="left" 
@@ -160,6 +158,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 
 ### 📈 Statistics 📊
 
+<p>
 <img 
     align="left" 
     alt="GitHub Stats" 
@@ -167,26 +166,42 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=humbertoromanojr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<br/>  
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-left: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=pie&custom_title=Tecnologias&langs_count=9" 
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-left: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+/>
+</p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Other Repositories
+### Other Repositories
 
 - [Gitlab](https://gitlab.com/humbertoromanojr)
 - [Bitbucket](https://bitbucket.org/humbertoromanojr/workspace/overview)
 
-### <img src="https://drive.google.com/uc?export=view&id=1jwAxaGpyc6AH33R1AiECfUcXRq4ZW4Hu" alt="" width="22" border="0" /> Latest my blogs
+<br/><br/>
+
+### 🗒️ **`Latest my blogs`**
 
 ### 🇧🇷 Blog 🇧🇷
 
 <!-- WORDPRESS:START -->
+
 - [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
 - [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
 - [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
@@ -197,5 +212,6 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇺🇸 Blog 🇺🇸
 
 <!-- DEVTO:START -->
+
 - [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
 <!-- DEVTO:END -->
