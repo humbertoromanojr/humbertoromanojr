@@ -203,7 +203,11 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ### 🇧🇷 Blog 🇧🇷
 
 <!-- WORDPRESS:START -->
-- [Portuguese-Brazil](https://hjrdev.wordpress.com)
+- [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
+- [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
+- [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
+- [React: Components, State and Props](https://hjrdev.wordpress.com/2019/07/18/react-components-state-and-props/)
+- [React: Component x PureComponent](https://hjrdev.wordpress.com/2019/07/17/react-component-x-purecomponent/)
 <!-- WORDPRESS:END -->
 
 ### 🇺🇸 Blog 🇺🇸
