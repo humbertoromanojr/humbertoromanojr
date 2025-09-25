@@ -200,8 +200,10 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 
 ### 🗒️ **`Visit my Blogs`**
 They contain my articles on blockchain and other technologies, which I post every week. And if you want a specific article, please find me on LinkedIn and ask me for it there. I'll be happy to do it for you. 
-<br/><br/>
+<br/>
 - [My Linkedin](https://www.linkedin.com/in/humbertoromanojr)
+
+<br/><br/>
 
 ### 🇧🇷 Blog 🇧🇷
 - [Portuguese Brazil](https://hjrdev.wordpress.com)
