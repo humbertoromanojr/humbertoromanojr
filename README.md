@@ -198,23 +198,18 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 
 <br/><br/>
 
-### 🗒️ **`Latest my blogs`**
+### 🗒️ **`Visit my Blogs`**
+They contain my articles on blockchain and other technologies, which I post every week. And if you want a specific article, please find me on LinkedIn and ask me for it there. I'll be happy to do it for you. 
+<br/><br/>
+- [My Linkedin](https://www.linkedin.com/in/humbertoromanojr)
 
 ### 🇧🇷 Blog 🇧🇷
+- [Portuguese Brazil](https://hjrdev.wordpress.com)
 
-<!-- WORDPRESS:START -->
-- [Date com Javascript](https://hjrdev.wordpress.com/2021/05/20/date-com-javascript/)
-- [Week OmniStack09](https://hjrdev.wordpress.com/2019/10/05/week-omnistack09/)
-- [React: lifeCycle](https://hjrdev.wordpress.com/2019/07/18/react-lifecycle/)
-- [React: Components, State and Props](https://hjrdev.wordpress.com/2019/07/18/react-components-state-and-props/)
-- [React: Component x PureComponent](https://hjrdev.wordpress.com/2019/07/17/react-component-x-purecomponent/)
-<!-- WORDPRESS:END -->
 
 ### 🇺🇸 Blog 🇺🇸
+- [English](https://dev.to/humbertoromanojr)
 
-<!-- DEVTO:START -->
-- [What&#39;s insecure, buggy, and poorly designed in the following wordpress code?](https://dev.to/jrdev/whats-insecure-buggy-and-poorly-designed-in-the-following-wordpress-code-3f96)
-<!-- DEVTO:END -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humbertoromanojr/humbertoromanojr/output/github-contribution-grid-snake-dark.svg">
