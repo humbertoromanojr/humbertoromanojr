@@ -206,11 +206,12 @@ They contain my articles on blockchain and other technologies, which I post ever
 <br/><br/>
 
 ### 🇧🇷 Blog 🇧🇷
-- [Portuguese Brazil](https://hjrdev.wordpress.com)
+- [Wordpress](https://hjrdev.wordpress.com)
 
 
 ### 🇺🇸 Blog 🇺🇸
-- [English](https://dev.to/humbertoromanojr)
+- [Dev.to](https://dev.to/humbertoromanojr)
+- [Medium](https://medium.com/@humbertoromanojr)
 
 
 <picture align="center">
