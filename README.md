@@ -5,9 +5,9 @@
 hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" width="40"> my friend
 <br /><br />
 
-🎸🎸 **`HellfrostH`** 🎸🎸
+🎸🎸 **`Humberto Junior`** 🎸🎸
 <br />
-My name is Humberto Junior, but everyone calls me Junior. Ever since I was a kid, I’ve been passionate about writing stories, developing games, rock, and heavy metal, but right now I’m focused on working on projects using React Native, React, Next, and Node. And I’m studying so I can transition into a career as a blockchain developer.
+My name is Humberto Junior, but everyone calls me Junior. Ever since I was a kid, I’ve been passionate about writing stories, developing games, rock, and heavy metal, but right now I’m focused on working on projects using React Native, React, Next, Solidity and Node JS. And I’m studying so I can transition into a career as a blockchain developer.
 <br /><br />
 🤘🤘🤘🤘🤘 Heavy Metal, Coffee and Code 🤘🤘🤘🤘🤘
 <br /><br />
@@ -51,7 +51,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 
 ---
 
-### 👩‍💻 Languages and Technologies
+## 👩‍💻 Languages and Technologies
 
 <img 
     align="left" 
@@ -92,6 +92,14 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
 />
 <img 
     align="left" 
@@ -165,28 +173,28 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=humbertoromanojr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=humbertoromanojr&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="margin-top: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-left: 10px;margin-top: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&layout=pie&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=dark&layout=pie&custom_title=Tecnologias&langs_count=9" 
 />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-left: 10px;margin-top: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=dark&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
