@@ -7,7 +7,7 @@ hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" wi
 
 🎸🎸 **`HellfrostH`** 🎸🎸
 <br />
-My name is Humberto Junior, but everyone calls me Junior. Since I was young, I have been passionate about writing stories, developing games, rock, and heavy metal, but currently I am focused on composing songs for my band [MordroM](https://mordrom.bandcamp.com/). My stage name is HellfrostH, and I play guitar, which is my favorite hobby. We need to enjoy ourselves in some way to improve our mental health.
+My name is Humberto Junior, but everyone calls me Junior. Ever since I was a kid, I’ve been passionate about writing stories, developing games, rock, and heavy metal, but right now I’m focused on working on projects using React Native, React, Next, and Node. And I’m studying so I can transition into a career as a blockchain developer.
 <br /><br />
 🤘🤘🤘🤘🤘 Heavy Metal, Coffee and Code 🤘🤘🤘🤘🤘
 <br /><br />
@@ -155,7 +155,7 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 ## Some of my specialties
 
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1RW8Pi_G6BVXKo70Gu5nJhoJFtFMdvTBK" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1RW8Pi_G6BVXKo70Gu5nJhoJFtFMdvTBK" alt="" width="50%" border="0" />
 </h1>
 
 ### 📈 Statistics 📊
@@ -189,7 +189,9 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoromanojr&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Other Repositories
 
@@ -199,20 +201,22 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 <br/><br/>
 
 ### 🗒️ **`Visit my Blogs`**
-They contain my articles on blockchain and other technologies, which I post every week. And if you want a specific article, please find me on LinkedIn and ask me for it there. I'll be happy to do it for you. 
+
+They contain my articles on blockchain and other technologies, which I post every week. And if you want a specific article, please find me on LinkedIn and ask me for it there. I'll be happy to do it for you.
 <br/>
+
 - [My Linkedin](https://www.linkedin.com/in/humbertoromanojr)
 
 <br/><br/>
 
 ### 🇧🇷 Blog 🇧🇷
+
 - [Wordpress](https://hjrdev.wordpress.com)
 
-
 ### 🇺🇸 Blog 🇺🇸
+
 - [Dev.to](https://dev.to/humbertoromanojr)
 - [Medium](https://medium.com/@humbertoromanojr)
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humbertoromanojr/humbertoromanojr/output/github-contribution-grid-snake-dark.svg">
