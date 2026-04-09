@@ -96,9 +96,9 @@ I am studying hard to change careers and become a Blockchain Developer. I am cur
 <img 
     align="left" 
     alt="React Native"
-    title="React" 
+    title="React Native" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; color: '#555'" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
 />
 <img 
