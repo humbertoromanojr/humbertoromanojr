@@ -6,17 +6,15 @@ hi there <img src="https://i.ibb.co/sPrPJxR/hello.gif" alt="hello" border="0" wi
 <br /><br />
 
 🎸🎸 **`Humberto Junior`** 🎸🎸
-<br />
-My name is Humberto Junior, but everyone calls me Junior. Ever since I was a kid, I’ve been passionate about writing stories, developing games, rock, and heavy metal, but right now I’m focused on working on projects using React Native, React, Next, Solidity and Node JS. And I’m studying so I can transition into a career as a blockchain developer.
+<br /> <br /><br />
+My name is Humberto Junior, but everyone calls me Junior. Since childhood, I’ve loved storytelling, game development, rock, and heavy metal. Now I’m sharpening my skills in Node.js, React, Next, and React Native, while studying Blockchain, Generative AI, and QA. I’m building web and mobile apps with Generative AI using Opencode, and I’m currently focused on QA through the QA Starter course at QAZando.
 <br /><br />
 🤘🤘🤘🤘🤘 Heavy Metal, Coffee and Code 🤘🤘🤘🤘🤘
 <br /><br />
 
 📓 Don´t stop learning <br /><br />
 
-**`Blockchain Developer`**
-
-I am studying hard to change careers and become a Blockchain Developer. I am currently pursuing a postgraduate degree in Blockchain and also taking another complementary course with more than forty practical projects. My goal is to be working as a Junior Blockchain Developer by January 2026.
+I’m diving deep into Blockchain and Generative AI, while prioritizing QA fundamentals. I’m enrolled in QAZando’s QA Starter to strengthen my testing expertise. My goal is to combine QA, AI, and blockchain skills to deliver secure, high-quality dApps. I’m aiming for a Junior Blockchain Developer position by early 2026.
 
 <p align="left">
     <a href="https://www.youtube.com/@humbertoromanojr?sub_confirmation=1">
